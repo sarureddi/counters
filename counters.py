@@ -1,3 +1,3 @@
 
-s=int(input("enter the value"))
+s=int(input())
 print(s)
